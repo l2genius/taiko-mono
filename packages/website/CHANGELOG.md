@@ -1,5 +1,23 @@
 # Changelog
 
+## [0.19.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.18.0...website-v0.19.0) (2023-11-10)
+
+
+### Features
+
+* **website:** add apus network to ecosystem ([#15082](https://github.com/taikoxyz/taiko-mono/issues/15082)) ([799ed71](https://github.com/taikoxyz/taiko-mono/commit/799ed715098e10fcf0f1405d37961c2dd75918c2))
+* **website:** add rhino.fi, Hotpot and DotTaiko to ecosystem ([#15024](https://github.com/taikoxyz/taiko-mono/issues/15024)) ([73cabf3](https://github.com/taikoxyz/taiko-mono/commit/73cabf3db09a63ae32be4e0fe0a62eb9e16f65b5))
+* **website:** add WizardBridgeEVM, Meson, BlockPI and RollupCodes to ecosystem ([#15131](https://github.com/taikoxyz/taiko-mono/issues/15131)) ([fb9b98a](https://github.com/taikoxyz/taiko-mono/commit/fb9b98a466a13231cc7ac6747cdfa3a615fcaf7f))
+* **website:** Fix Broken Link for Meta Merge in EcosystemSection.tsx ([#15126](https://github.com/taikoxyz/taiko-mono/issues/15126)) ([e144b75](https://github.com/taikoxyz/taiko-mono/commit/e144b75f8af5a719a6e5187ad5e8bb83690c076b))
+* **website:** update `prover-market-page.mdx` ([#15063](https://github.com/taikoxyz/taiko-mono/issues/15063)) ([3dbbafb](https://github.com/taikoxyz/taiko-mono/commit/3dbbafb2ab93f227297aa7260e5abe37b9f84442))
+
+
+### Bug Fixes
+
+* **docs:** Documentation Corrections for Bridge Contract and Integration Manual ([#15144](https://github.com/taikoxyz/taiko-mono/issues/15144)) ([4c5c1b9](https://github.com/taikoxyz/taiko-mono/commit/4c5c1b95793cca965c71f6fc842ec3fcc1218c5b))
+* **website:** Link to the Taiko Swap v3 ([#15138](https://github.com/taikoxyz/taiko-mono/issues/15138)) ([f6b6f5f](https://github.com/taikoxyz/taiko-mono/commit/f6b6f5f13794efe4faac0a38e5b4bc21a6adce76))
+* **website:** swap ecosystem descriptions ([#15097](https://github.com/taikoxyz/taiko-mono/issues/15097)) ([6cc272e](https://github.com/taikoxyz/taiko-mono/commit/6cc272ea43a84cd4759f43d294f8b329791a8501))
+
 ## [0.18.0](https://github.com/taikoxyz/taiko-mono/compare/website-v0.17.0...website-v0.18.0) (2023-10-18)
 
 
